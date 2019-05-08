@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/goods/goods"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/goods/goods",
+        "text": "日志"
+      }
+    ]
+  },
+  "networkTimeout": {
+      "request": 10000,
+      "downloadFile": 10000
+    },
+    "debug": true,
+    "navigateToMiniProgramAppIdList": [
+      "wxe5f52902cf4de896"
+    ]
+}

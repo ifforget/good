@@ -1,0 +1,22 @@
+<view class="goodlist">
+<view class="fist">
+    <view class="goodtop" >
+       <icon class="" type="search" size="20" color="">
+       </icon> 
+    </view>
+    <view class="goodseach">
+         <icon class="se" type="search" size="16" color="">
+         </icon>
+        <input type="text" placeholder="搜索" />
+    </view>
+</view>
+<view class="2">
+    
+</view>
+<view class="3">
+    
+</view>
+<view class="4">
+    
+</view>
+</view>
